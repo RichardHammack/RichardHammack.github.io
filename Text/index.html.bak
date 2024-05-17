@@ -1,0 +1,602 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Course Notes</title>
+    <style type="text/css">
+<!--
+
+
+-->
+</style> <style type="text/css">
+<!--
+#Layer1 {
+	position: absolute;
+	left: 680px;
+	top: 170px;
+	width: 419px;
+	height: 400px;
+	z-index: 1;
+	visibility: visible;
+}
+#Layer2 {
+	position: absolute;
+	left: 84px;
+	top: 44px;
+	width: 490px;
+	height: 500px;
+	z-index: 2;
+	background-color: #FFF9E7;
+}
+#Layer3 {
+	position: absolute;
+	left: 680px;
+	top: 39px;
+	width: 328px;
+	height: 82px;
+	z-index: 2;
+	background-color: #FFF9E7;
+}
+
+
+.style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.style5 {font-family: Arial, Helvetica, sans-serif}
+.style6 {font-size: 12px}
+.style9 {font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+.style11 {font-size: 14px}
+#Layer1 table tr td div {
+}
+#apDiv1 strong {
+	color: #F00;
+}
+-->
+</style></head>
+  <body style="                                                                     background-color: #fff9e7;">
+    <div id="Layer2">
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td class="style4" width="68%"><em>Calculus Course Notes</em><br>
+              <div class="style11" align="center"></div>
+            </td>
+            <td width="32%">
+              <div class="style5" align="right">Richard Hammack </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="style5" align="left">
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td>
+                <div align="left"><br>
+                  The following chapters are aligned with the lectures. <br>
+                  (For example, Lecture 3 is on Chapter 3, etc.)<br>
+                  <br>
+                </div>
+              </td>
+              <td rowspan="4" width="10%">
+                <div class="style6" align="right"></div>
+                <br>
+              </td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+              <td>You will find the solutions to a chapter's odd numbered
+                problems at the <em>end</em> of that chapter.<br>
+              </td>
+            </tr>
+            <tr>
+              <td><em><br>
+                </em></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <strong>Part 1: Function Review</strong>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">1. <a href="Chapter1.pdf">What Calculus is
+                  About</a><br>
+              </div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">2. <a href="Chapter2.pdf">Function Fundamentals</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">3. <a href="Chapter3.pdf">Trigonometry Review</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">4. <a href="Chapter4.pdf">Inverse Functions</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td>5. <a href="Chapter5.pdf">Exponential and Logarithm Functions</a></td>
+            <td align="right"><br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">6. <a href="Chapter6.pdf">Inverse Trig
+                  Functions</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <strong> <strong>Part 2: Limits</strong> </strong>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">7. <a href="Chapter7.pdf">Limits: The Way to
+                  Tangent Lines</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">8. <a href="Chapter8.pdf">Limits and Limit Laws</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">9. <a href="Chapter9.pdf">Computing Limits
+                  Algebraically</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">10. <a href="Chapter10.pdf">Limits of Trig
+                  Functions</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">11. <a href="Chapter11.pdf">Continuity and
+                  Limits of Compositions</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">12. <a href="Chapter12.pdf">Infinite Limits</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">13. <a href="Chapter13.pdf">Limits at Infinity</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">14. Formal Definitions of Limits</div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <strong>Part 3: Differentiation</strong>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">15. <a href="Chapter15.pdf">Slopes of Tangent
+                  Lines</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">16. <a href="Chapter16.pdf">The Derivative of a
+                  Function</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">17. <a href="Chapter17.pdf">Derivative Rules</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">18. <a href="Chapter18.pdf">Notation, Examples,
+                  Differentiability</a></div>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">19. <a href="Chapter19.pdf">The Derivative of
+                  the Natural Exponential Function</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">20. <a href="Chapter20.pdf">Product and
+                  Quotient Rules</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">21. <a href="Chapter21.pdf">Derivatives of Trig
+                  Functions</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">22. <a href="Chapter22.pdf">Higher Derivatives</a><br>
+              </div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">23. <a href="Chapter23.pdf">The Chain Rule</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">24. <a href="Chapter24.pdf">Derivatives of
+                  Exponential and Logarithm Functions</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">25. <a href="Chapter25.pdf">Derivatives of
+                  Inverse Trig Functions</a><br>
+              </div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">26. <a href="Chapter26.pdf">Meanings of the
+                  Derivative</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">27. <a href="Chapter27.pdf">Implicit
+                  Differentiation</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">28. <a href="Chapter28.pdf">Logarithmic
+                  Differentiation</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">29. <a href="Chapter29.pdf">Related Rates</a></div>
+            </td>
+            <td>
+              <div align="right"><br>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="Layer1" style="top: 199px; left: 614px; width: 667px; height: 397px;">
+      <strong>Part 4: Applications of Differentiation</strong>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">30. <a href="Chapter30.pdf">Increase-Decrease</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">31. <a href="Chapter31.pdf">Local Extrema and
+                  the First Derivative Test</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">32. <a href="Chapter32.pdf">Concavity and the
+                  Second Derivative Test</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">33. <a href="Chapter33.pdf">Global Extrema</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">34.<a href="Chapter34.pdf"> Optimization
+                  Problems<br>
+                </a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">35. <a href="Chapter35.pdf">The Mean Value
+                  Theorem</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">36. <a href="Chapter36.pdf">Linear
+                  Approximation and Newton's Method<br>
+                </a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">37. <a href="Chapter37.pdf">L'Hopital's Rule</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <strong>Part 5: Integration</strong>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">38. <a href="Chapter38.pdf">Antiderivatives</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">39. <a href="Chapter39.pdf">Differentials and
+                  Differential Equations<br>
+                </a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">40. <a href="Chapter40.pdf">Area<br>
+                </a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">41. <a href="Chapter41.pdf">Definite Integrals</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">42. <a href="Chapter42.pdf">The Fundamental
+                  Theorem of Calculus</a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">43. <a href="Chapter43.pdf">More on the
+                  Fundamental Theorem<br>
+                </a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">44. <a href="Chapter44.pdf">Integration by
+                  Substitution<br>
+                </a></div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;</td>
+            <td width="80%">
+              <div align="left">45. <a href="Chapter45.pdf">Working with Calculus</a><br>
+              </div>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <br>
+      <table width="100%" cellpadding="0.0" border="0">
+        <tbody>
+          <tr>
+            <td width="76%"><span class="style6">© 2021 by Richard Hammack<br>
+                This work is licensed under the Creative Commons Attribution-Non
+                Commercial-No Derivative Works 3.0 License </span></td>
+            <td width="24%" align="right"><img src="by-nc-ndBig.jpg" alt="" height="35"
+                width="100"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="Layer3" style="top: 43px; left: 663px; width: 427px; height: 123px;">&nbsp;<em>I
+        am actively adding content. Stay tuned!<br>
+        <br>
+      </em>I am always happy to correct typos and/or mistakes. Please notify me
+      if you find any! <br>
+      <br>
+      <em>--Thanks, RH</em></div>
+  </body>
+</html>
